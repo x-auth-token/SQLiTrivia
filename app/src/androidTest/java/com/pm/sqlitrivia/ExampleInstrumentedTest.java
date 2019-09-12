@@ -1,4 +1,4 @@
-package com.example.sqlitrivia;
+package com.pm.sqlitrivia;
 
 import android.content.Context;
 

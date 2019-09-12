@@ -1,8 +1,10 @@
-package com.example.sqlitrivia;
+package com.pm.sqlitrivia;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.sqlitrivia.R;
 
 public class MainActivity extends AppCompatActivity {
 
